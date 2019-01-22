@@ -455,6 +455,10 @@ Set this option to **Yes** to enable power management on clients. For more infor
 
 Choose **Yes** to let users of Software Center exclude their computer from any configured power management settings.  
 
+### Allow Network wake-up
+
+Enable this client setting configures the Network Adapter in the client computer for wake on LAN, under properties of the network adapter.
+
 ### Enable wake-up proxy
 
 Specify **Yes** to supplement the site’s Wake On LAN setting, when it's configured for unicast packets.  
